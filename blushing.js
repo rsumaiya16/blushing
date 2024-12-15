@@ -5,8 +5,8 @@ const response = document.getElementById("response");
 
 
 yesBtn.addEventListener("click", () => {
-    response.textContent = "I knew you'd say YES! ";
-    response.style.color = "green";
+    response.textContent = "sesh lifetime feshe gesish ";
+    response.style.color = "purple";
 });
 
 
